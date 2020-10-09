@@ -7,6 +7,7 @@
 <body>
 <h1>基本信息</h1>
 <p>我叫姚冲，在二零零一年七月五日出生于一个安徽农村家庭，之后由于各种原因随父母到河北定居，算半个河北人半个江淮人吧。身高174cm，体重58kg（目前正在努力增重）</p>
+  <a href=https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E4%BA%9A%E7%B4%A2&hs=2&pn=5&spn=0&di=171160&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&ie=utf-8&oe=utf-8&cl=2&lm=-1&cs=72470854%2C3382241096&os=494460109%2C2169654716&simid=3314871507%2C181584271&adpicid=0&lpn=0&ln=30&fr=ala&fm=&sme=&cg=&bdtype=0&oriquery=%E4%BA%9A%E7%B4%A2&objurl=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2Fece29b3b19fe926f761cf0f27c1de09a1c6651e5.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bktstktst_z%26e3Bv54AzdH3F6jw1AzdH3Fvem9ndndAzdH3F&gsm=6&islist=&querylist=>照片</a>
 <h1>成长经历</h1>
 <h2>上学前</h2>
 <p>上学前主要在安徽的农村生活，摸鱼、爬树、掏鸟蛋、烤红薯、偷玉米···这些统统没有，只记得父母去地里干活我一个人从床上摔下来哭了好久。。。</p>
